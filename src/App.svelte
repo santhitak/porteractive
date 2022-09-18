@@ -4,12 +4,16 @@
   import { Router, Route } from "svelte-routing";
   import Layout from "./lib/Layout.svelte";
   import Home from "./views/Home.svelte";
+  import Project from "./views/Project.svelte";
 </script>
 
 <Router>
   <Layout>
     <Route path="/">
       <Home />
+    </Route>
+    <Route path="/project">
+      <Project />
     </Route>
   </Layout>
 </Router>

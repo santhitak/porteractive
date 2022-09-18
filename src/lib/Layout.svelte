@@ -3,10 +3,10 @@
 </script>
 
 <div>
-  <nav class="p-5 flex justify-center">
-    <Link to="/" class="mx-10">Home</Link>
-    <Link to="about" class="mx-10">About</Link>
-    <Link to="blog" class="mx-10">Blog</Link>
+  <nav class="p-3 flex justify-between">
+    <Link to="/" class="mx-5 text-lg">INDEX</Link>
+    <Link to="project" class="mx-5 text-lg">PROJECTS</Link>
   </nav>
+  <hr />
   <slot />
 </div>
