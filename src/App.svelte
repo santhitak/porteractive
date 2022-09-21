@@ -1,6 +1,6 @@
 <script lang="ts">
   import "./app.css";
-  import "./assets/fonts/KyivType.css";
+  import "./assets/fonts/KyivFontFace.svelte";
   import { Router, Route } from "svelte-routing";
   import Layout from "./lib/Layout.svelte";
   import Home from "./views/Home.svelte";
