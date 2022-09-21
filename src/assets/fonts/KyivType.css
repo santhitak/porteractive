@@ -51,15 +51,15 @@
   font-family: KyivTypeVariableSerif500;
 }
 
-.font-sans-600 {
+.font-serif-600 {
   font-family: KyivTypeVariableSerif600;
 }
 
-.font-sans-700 {
+.font-serif-700 {
   font-family: KyivTypeVariableSerif700;
 }
 
-.font-sans-800 {
+.font-serif-800 {
   font-family: KyivTypeVariableSerif800;
 }
 
@@ -118,15 +118,15 @@
   font-family: KyivTypeVariableTitling500;
 }
 
-.font-sans-600 {
+.font-tilt-600 {
   font-family: KyivTypeVariableTitling600;
 }
 
-.font-sans-700 {
+.font-tilt-700 {
   font-family: KyivTypeVariableTitling700;
 }
 
-.font-sans-800 {
+.font-tilt-800 {
   font-family: KyivTypeVariableTitling800;
 }
 
