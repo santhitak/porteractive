@@ -5,6 +5,7 @@
   import Layout from "./lib/Layout.svelte";
   import Home from "./views/Home.svelte";
   import Project from "./views/Project.svelte";
+  import About from "./views/About.svelte";
 </script>
 
 <Router>
@@ -14,6 +15,9 @@
     </Route>
     <Route path="/project">
       <Project />
+    </Route>
+    <Route path="/about">
+      <About />
     </Route>
   </Layout>
 </Router>
