@@ -8,8 +8,12 @@
     style="background-color: rgba(255, 255, 255, 0.6)"
   >
     <Link to="/" class="mx-5 lg:text-lg">INDEX</Link>
+    <p class="mx-5 lg:text-lg">PROJECTS</p>
+    <p class="mx-5 lg:text-lg">ABOUT</p>
+    <!--
     <Link to="project" class="mx-5 lg:text-lg">PROJECTS</Link>
     <Link to="about" class="mx-5 lg:text-lg">ABOUT</Link>
+  -->
   </nav>
   <hr class="bg-current" />
 </div>
